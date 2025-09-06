@@ -67,16 +67,6 @@
   <a href="https://www.sonarqube.org/">
     <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" height="40" alt="SonarQube" />
   </a>
-  &nbsp;
-  <!-- OWASP Dependency Check -->
-  <a href="https://owasp.org/www-project-dependency-check/">
-    <img src="https://raw.githubusercontent.com/DependencyTrack/brand/main/logo/dependency-check-icon-color.svg" height="40" alt="OWASP Dependency Check" />
-  </a>
-  &nbsp;
-  <!-- Trivy -->
-  <a href="https://trivy.dev/">
-    <img src="https://aquasecurity.github.io/trivy/latest/images/trivy-logo.png" height="40" alt="Trivy" />
-  </a>
 </p>
 
 ---
