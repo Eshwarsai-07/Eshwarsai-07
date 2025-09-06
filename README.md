@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Eshwar Sai!</h1>
 <h3 align="center">A passionate Software Developer from India 🌏</h3>
 
@@ -45,6 +43,39 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,linux" />
+  </a>
+</p>
+
+<h3><strong>Security & Monitoring</strong></h3>
+<p align="left">
+  <!-- ArgoCD -->
+  <a href="https://argo-cd.readthedocs.io/en/stable/">
+    <img src="https://cdn.worldvectorlogo.com/logos/argo.svg" height="40" alt="ArgoCD" />
+  </a>
+  &nbsp;
+  <!-- Prometheus -->
+  <a href="https://prometheus.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" />
+  </a>
+  &nbsp;
+  <!-- Grafana -->
+  <a href="https://grafana.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" />
+  </a>
+  &nbsp;
+  <!-- SonarQube -->
+  <a href="https://www.sonarqube.org/">
+    <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" height="40" alt="SonarQube" />
+  </a>
+  &nbsp;
+  <!-- OWASP Dependency Check -->
+  <a href="https://owasp.org/www-project-dependency-check/">
+    <img src="https://raw.githubusercontent.com/DependencyTrack/brand/main/logo/dependency-check-icon-color.svg" height="40" alt="OWASP Dependency Check" />
+  </a>
+  &nbsp;
+  <!-- Trivy -->
+  <a href="https://trivy.dev/">
+    <img src="https://aquasecurity.github.io/trivy/latest/images/trivy-logo.png" height="40" alt="Trivy" />
   </a>
 </p>
 
