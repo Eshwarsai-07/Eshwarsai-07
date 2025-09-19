@@ -5,9 +5,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Eshwarsai-07&style=flat-square&color=blue" alt="profile views" />
 </p>
+
+---
+
+### Connect With Me 👇
+
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/Eshwarsai-07)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eshwar-sai-g-a-39860529b/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.com/u/G0host/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eshwarsai07edu@gmail.com)
 
 ---
 
@@ -77,14 +86,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarsai-07&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h2><strong>Connect with Me</strong></h2>
+---
 
-<p align="left">
-  <a href="https://linkedin.com/in/eshwar-sai-39860529b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/eshwar_saiii/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="30" alt="Instagram" />
+<h2 align="center"><strong>My GitHub Activity</strong></h2>
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eshwarsai-07&bg_color=080205&color=e5d2e3&line=ffffff&point=6a6262&area=true&hide_border=true" alt="Eshwarsai's GitHub Activity Graph" />
   </a>
 </p>
