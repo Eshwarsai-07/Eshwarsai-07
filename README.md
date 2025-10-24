@@ -15,7 +15,7 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=GitHub&logoColor=white)](https://github.com/Eshwarsai-07)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eshwar-sai-g-a-39860529b/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)]([https://leetcode.com/u//](https://leetcode.com/u/Eshwar-Sai/))
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)]([https://leetcode.com/u/Eshwar-Sai/](https://leetcode.com/u/Eshwar-Sai/))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eshwarsai07edu@gmail.com)
 
 ---
